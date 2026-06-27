@@ -42,7 +42,7 @@ This project is an **end-to-end Data Science solution** that transforms raw OTT 
 
 ## 🌐 Live Demo
 
-[Click here to view the live dashboard](YOUR_STREAMLIT_CLOUD_LINK_HERE)
+[Click here to view the live dashboard](https://ott-analytics-dashboard-1.streamlit.app/)
 
 ---
 
